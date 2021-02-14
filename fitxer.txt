@@ -1,1 +1,3 @@
 fitxer de prova per a l'exercici de git i github del curs d'accés a IT Academy
+
+- modificación del text per a l'apartar 2. de l'exercici: treballar ambos tranques
